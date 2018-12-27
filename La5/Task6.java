@@ -6,7 +6,7 @@ public class Task6 {
 
         public static void main(String[] args)
         {
-            String input = "abcdef123ABCD.!?";
+            String input = "pesisobaka";
             System.out.print(input + "\n");
 
             char[] reversed = input.toCharArray();
